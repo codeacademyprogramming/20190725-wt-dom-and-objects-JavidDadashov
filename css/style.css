@@ -1,0 +1,32 @@
+.s-color{
+font-size: 23px;
+font-weight: 400px;
+margin: 50px;
+padding: 30px;
+
+}
+
+body{
+    background-color: black;
+}
+
+
+thead, tr, .color{
+    color: pink;
+}
+
+.content{
+    color: white;
+
+}
+
+.s-color{
+    color:white;
+
+}
+.demo-color{
+    color:coral;
+
+}
+
+
